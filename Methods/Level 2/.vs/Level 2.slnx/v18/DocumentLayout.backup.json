@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|c:\\users\\siddh\\desktop\\capgemini training\\.net c#\\codes (new)\\methods\\level 2\\level 2\\distanceconvertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|solutionrelative:level 2\\distanceconvertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|c:\\users\\siddh\\desktop\\capgemini training\\.net c#\\codes (new)\\methods\\level 2\\level 2\\avgminmax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|solutionrelative:level 2\\avgminmax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|c:\\users\\siddh\\desktop\\capgemini training\\.net c#\\codes (new)\\methods\\level 2\\level 2\\quadratic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|solutionrelative:level 2\\quadratic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|c:\\users\\siddh\\desktop\\capgemini training\\.net c#\\codes (new)\\methods\\level 2\\level 2\\bmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|solutionrelative:level 2\\bmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|c:\\users\\siddh\\desktop\\capgemini training\\.net c#\\codes (new)\\methods\\level 2\\level 2\\posneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|solutionrelative:level 2\\posneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|c:\\users\\siddh\\desktop\\capgemini training\\.net c#\\codes (new)\\methods\\level 2\\level 2\\youngandtall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|solutionrelative:level 2\\youngandtall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|c:\\users\\siddh\\desktop\\capgemini training\\.net c#\\codes (new)\\methods\\level 2\\level 2\\votereligibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|solutionrelative:level 2\\votereligibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|c:\\users\\siddh\\desktop\\capgemini training\\.net c#\\codes (new)\\methods\\level 2\\level 2\\level 2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|solutionrelative:level 2\\level 2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|c:\\users\\siddh\\desktop\\capgemini training\\.net c#\\codes (new)\\methods\\level 2\\level 2\\temperatureandweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|solutionrelative:level 2\\temperatureandweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|c:\\users\\siddh\\desktop\\capgemini training\\.net c#\\codes (new)\\methods\\level 2\\level 2\\distanceconversion2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|solutionrelative:level 2\\distanceconversion2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|c:\\users\\siddh\\desktop\\capgemini training\\.net c#\\codes (new)\\methods\\level 2\\level 2\\distanceconvertion1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|solutionrelative:level 2\\distanceconvertion1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E11D834-1FD7-40CD-B1AC-9788E8FFC9B9}|Level 2\\Level 2.csproj|c:\\users\\siddh\\desktop\\capgemini training\\.net c#\\codes (new)\\methods\\level 2\\level 2\\leapyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +62,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AvgMinMax.cs",
+              "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\AvgMinMax.cs",
+              "RelativeDocumentMoniker": "Level 2\\AvgMinMax.cs",
+              "ToolTip": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\AvgMinMax.cs",
+              "RelativeToolTip": "Level 2\\AvgMinMax.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T09:19:05.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Quadratic.cs",
+              "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\Quadratic.cs",
+              "RelativeDocumentMoniker": "Level 2\\Quadratic.cs",
+              "ToolTip": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\Quadratic.cs",
+              "RelativeToolTip": "Level 2\\Quadratic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T09:18:07.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BMI.cs",
+              "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\BMI.cs",
+              "RelativeDocumentMoniker": "Level 2\\BMI.cs",
+              "ToolTip": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\BMI.cs",
+              "RelativeToolTip": "Level 2\\BMI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T09:17:46.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PosNeg.cs",
+              "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\PosNeg.cs",
+              "RelativeDocumentMoniker": "Level 2\\PosNeg.cs",
+              "ToolTip": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\PosNeg.cs",
+              "RelativeToolTip": "Level 2\\PosNeg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T09:17:30.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "YoungAndTall.cs",
+              "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\YoungAndTall.cs",
+              "RelativeDocumentMoniker": "Level 2\\YoungAndTall.cs",
+              "ToolTip": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\YoungAndTall.cs",
+              "RelativeToolTip": "Level 2\\YoungAndTall.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T09:17:05.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VoterEligibility.cs",
+              "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\VoterEligibility.cs",
+              "RelativeDocumentMoniker": "Level 2\\VoterEligibility.cs",
+              "ToolTip": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\VoterEligibility.cs",
+              "RelativeToolTip": "Level 2\\VoterEligibility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T08:55:11.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Level 2",
               "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\Level 2.csproj",
               "RelativeDocumentMoniker": "Level 2\\Level 2.csproj",
@@ -46,20 +156,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DistanceConvertion.cs",
-              "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\DistanceConvertion.cs",
-              "RelativeDocumentMoniker": "Level 2\\DistanceConvertion.cs",
-              "ToolTip": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\DistanceConvertion.cs",
-              "RelativeToolTip": "Level 2\\DistanceConvertion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "TemperatureAndWeight.cs",
+              "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\TemperatureAndWeight.cs",
+              "RelativeDocumentMoniker": "Level 2\\TemperatureAndWeight.cs",
+              "ToolTip": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\TemperatureAndWeight.cs",
+              "RelativeToolTip": "Level 2\\TemperatureAndWeight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T07:22:48.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DistanceConversion2.cs",
+              "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\DistanceConversion2.cs",
+              "RelativeDocumentMoniker": "Level 2\\DistanceConversion2.cs",
+              "ToolTip": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\DistanceConversion2.cs",
+              "RelativeToolTip": "Level 2\\DistanceConversion2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T07:20:57.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DistanceConvertion1.cs",
+              "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\DistanceConvertion1.cs",
+              "RelativeDocumentMoniker": "Level 2\\DistanceConvertion1.cs",
+              "ToolTip": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\DistanceConvertion1.cs",
+              "RelativeToolTip": "Level 2\\DistanceConvertion1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA7wCkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T06:55:48.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "LeapYear.cs",
               "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\LeapYear.cs",
               "RelativeDocumentMoniker": "Level 2\\LeapYear.cs",
@@ -72,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "SumOFNaturalNumbers.cs",
               "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\SumOFNaturalNumbers.cs",
               "RelativeDocumentMoniker": "Level 2\\SumOFNaturalNumbers.cs",
@@ -85,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Factors.cs",
               "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\Capgemini Training\\.NET C#\\Codes (New)\\Methods\\Level 2\\Level 2\\Factors.cs",
               "RelativeDocumentMoniker": "Level 2\\Factors.cs",
