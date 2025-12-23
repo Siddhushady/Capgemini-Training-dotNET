@@ -1,0 +1,15 @@
+C:\Users\siddh\Desktop\Capgemini Training\.NET C#\Codes (New)\Methods\Level 2\Level 2\bin\Debug\net10.0\Level 2.exe
+C:\Users\siddh\Desktop\Capgemini Training\.NET C#\Codes (New)\Methods\Level 2\Level 2\bin\Debug\net10.0\Level 2.deps.json
+C:\Users\siddh\Desktop\Capgemini Training\.NET C#\Codes (New)\Methods\Level 2\Level 2\bin\Debug\net10.0\Level 2.runtimeconfig.json
+C:\Users\siddh\Desktop\Capgemini Training\.NET C#\Codes (New)\Methods\Level 2\Level 2\bin\Debug\net10.0\Level 2.dll
+C:\Users\siddh\Desktop\Capgemini Training\.NET C#\Codes (New)\Methods\Level 2\Level 2\bin\Debug\net10.0\Level 2.pdb
+C:\Users\siddh\Desktop\Capgemini Training\.NET C#\Codes (New)\Methods\Level 2\Level 2\obj\Debug\net10.0\Level 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddh\Desktop\Capgemini Training\.NET C#\Codes (New)\Methods\Level 2\Level 2\obj\Debug\net10.0\Level 2.AssemblyInfoInputs.cache
+C:\Users\siddh\Desktop\Capgemini Training\.NET C#\Codes (New)\Methods\Level 2\Level 2\obj\Debug\net10.0\Level 2.AssemblyInfo.cs
+C:\Users\siddh\Desktop\Capgemini Training\.NET C#\Codes (New)\Methods\Level 2\Level 2\obj\Debug\net10.0\Level 2.csproj.CoreCompileInputs.cache
+C:\Users\siddh\Desktop\Capgemini Training\.NET C#\Codes (New)\Methods\Level 2\Level 2\obj\Debug\net10.0\Level 2.sourcelink.json
+C:\Users\siddh\Desktop\Capgemini Training\.NET C#\Codes (New)\Methods\Level 2\Level 2\obj\Debug\net10.0\Level 2.dll
+C:\Users\siddh\Desktop\Capgemini Training\.NET C#\Codes (New)\Methods\Level 2\Level 2\obj\Debug\net10.0\refint\Level 2.dll
+C:\Users\siddh\Desktop\Capgemini Training\.NET C#\Codes (New)\Methods\Level 2\Level 2\obj\Debug\net10.0\Level 2.pdb
+C:\Users\siddh\Desktop\Capgemini Training\.NET C#\Codes (New)\Methods\Level 2\Level 2\obj\Debug\net10.0\Level 2.genruntimeconfig.cache
+C:\Users\siddh\Desktop\Capgemini Training\.NET C#\Codes (New)\Methods\Level 2\Level 2\obj\Debug\net10.0\ref\Level 2.dll
