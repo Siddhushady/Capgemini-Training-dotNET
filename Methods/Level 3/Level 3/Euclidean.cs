@@ -1,30 +1,23 @@
 ﻿using System;
 
-class ArmstrongNumber
+class LineMath
 {
-    static bool IsArmstrong(int number)
+    static double Distance(double x1, double y1, double x2, double y2)
     {
-        int originalNumber = number;
-        int sum = 0;
+        return Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
+    }
 
-        while (originalNumber != 0)
-        {
-            int digit = originalNumber % 10;
-            sum += digit * digit * digit;
-            originalNumber /= 10;
-        }
-
-        return sum == number;
+    static double[] LineEquation(double x1, double y1, double x2, double y2)
+    {
+        double m = (y2 - y1) / (x2 - x1);
+        double b = y1 - m * x1;
+        return new double[] { m, b };
     }
 
     static void Main()
     {
-        Console.Write("Enter a number: ");
-        int number = Convert.ToInt32(Console.ReadLine());
-
-        if (IsArmstrong(number))
-            Console.WriteLine($"{number} is an Armstrong Number");
-        else
-            Console.WriteLine($"{number} is not an Armstrong Number");
+        double[] line = LineEquation(2, 4, 4, 6);
+        Console.WriteLine("Distance: " + Distance(2, 4, 4, 6));
+        Console.WriteLine($"y = {line[0]}x + {line[1]}");
     }
 }
